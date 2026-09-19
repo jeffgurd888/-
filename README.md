@@ -1,3 +1,12 @@
+
+lean-toolchain
+lakefile.lean
+install.sh
+ThetLogos/
+├── Basic.lean
+└── SpectralTriple.lean
+
+
 # 𐤈 (`thet-logos`)
 
 > **Self-monitoring spectral architecture in Lean 4: formalizing the 5-module LOGOS cycle, TRO ternary processing, and 32-state operator dynamics[span_2](start_span)[span_2](end_span)[span_3](start_span)[span_3](end_span).**
