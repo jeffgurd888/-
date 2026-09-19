@@ -1,4 +1,5 @@
-
+curl -sSfL [https://raw.githubusercontent.com/jeffgurd888/thet-logos/](https://raw.githubusercontent.com/jeffgurd888/thet-logos/)<COMMIT_HASH>/install.sh | bash
+https://raw.githubusercontent.com/jeffgurd888/thet-logos/
 lean-toolchain
 lakefile.lean
 install.sh
